@@ -1,0 +1,6 @@
+{
+  "name": "Maeager.GitHub.io",
+  "tagline": "Michael's code ",
+  "body": "### Welcome \r\n\r\nThis page is a collection of content on [my GitHub site](https://maeager.github.com/).\r\n\r\n### PhD thesis\r\n\r\nMore content\r\n\r\nNEURON code: [cnstellate](https://github.com/maeager/cnstellate)\r\nGenetic algorithm optimisation code: [GAneuron](https://github.com/maeager/GAneuron)\r\n\r\nMy manuscript was written in org-mode markup, a module of Emacs, then exported to latex.  This enabled convenient in-text code replacement and export/compile to PDF.\r\n[org-manuscript](https://github.com/maeager/org-manuscript)\r\n\r\n\r\n### Neuro\r\n\r\n### Imaging\r\n\r\n\r\n### Authors and Contributors\r\nYou can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
